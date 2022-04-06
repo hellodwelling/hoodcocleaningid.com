@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://hoodcocleaningid.com/sitemap.xml
